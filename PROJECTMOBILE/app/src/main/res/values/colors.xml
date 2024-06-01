@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="nav_item_color">#3F51B5</color>
+    <color name="warnaLatar">#FFFFFF</color>
+    <color name="teksUtama">#000000</color>
+    <color name="teksSekunder">#757575</color>
+    <color name="putih">#FFFFFF</color>
+    <color name="purple_background">#800080</color> <!-- Contoh warna ungu -->
+
+</resources>
